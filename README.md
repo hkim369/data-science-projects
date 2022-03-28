@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-** This Repository contains the portfolio of my data science projects presented in the form of iPython Notebooks. **
+**This Repository contains the portfolio of my data science projects presented in the form of iPython Notebooks.**
 
 
 * [Analysis and Prediction for Stock Price](http://https://github.com/hkim369/stock-price/blob/main/Stock_analysis.ipynb)
