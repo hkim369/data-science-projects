@@ -2,7 +2,7 @@
 
 **This Repository contains data science projects completed by myself, which are presented in the form of iPython Notebooks.**
 
-* [Alcohol consumption]: Data visualization of alcohol consumption per capita, from rank 1 to rank 25 using Tableau.
+* [Alcohol consumption](https://github.com/hkim369/DataViz/tree/main): Data visualization of alcohol consumption per capita, from rank 1 to rank 25 using Tableau.
 
 * [Analysis of Kaggle survey](https://github.com/hkim369/Kaggle-Survery/blob/main/age-gender-education-and-experience-5.ipynb): Kaggle users have created great notebooks including gorgeous visualization and thorough analysis. Who are the people publishing these nice notebooks? This will show their ages, genders, education levels, titles and experience from 2021 Kaggle survey.
 
